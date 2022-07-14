@@ -1,0 +1,27 @@
+_repo: Le-joug_68487
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gilbert, Marion
+    gutenberg_agent_id: '54796'
+    url: http://www.gutenberg.org/2009/agents/54796
+description: ''
+gutenberg_issued: '2022-07-09'
+identifiers:
+  gutenberg: '68487'
+language: fr
+pgterms:marc904: https://books.google.fr/books?id=NRhLAQAAIAAJ
+pgterms:marc905: 20211211024418gilbert
+pgterms:marc906: '1925'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from scanned images of public
+  domain material from the Google Books project.)
+publication_note: France :J. Ferenczi et fils,1925.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le joug
+url: http://www.gutenberg.org/ebooks/68487
