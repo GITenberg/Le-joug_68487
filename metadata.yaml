@@ -1,11 +1,16 @@
 _repo: Le-joug_68487
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68487-h/images/cover.jpg
 creator:
   author:
     agent_name: Gilbert, Marion
     gutenberg_agent_id: '54796'
     url: http://www.gutenberg.org/2009/agents/54796
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68487#Le-joug
 gutenberg_issued: '2022-07-09'
 identifiers:
   gutenberg: '68487'
